@@ -35,6 +35,7 @@ public class Operations {
                 break;
             default:
                 System.out.println("Sorry! Something went wrong... operation failed!");
+                break;
         }
     }
 }
