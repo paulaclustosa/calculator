@@ -9,9 +9,7 @@ public class Printer {
             "3 for multiplication \n" +
             "4 for division \n" +
             "Enter: ";
-
     private static String FIRST_OPERAND_MESSAGE = "Please enter the first operand number: ";
-
     private static String SECOND_OPERAND_MESSAGE = "Please enter the second operand number: ";
 
     public static void printChooseOperationMessage() {
